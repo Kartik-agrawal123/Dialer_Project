@@ -63,7 +63,9 @@ body {
     text-align: center;
     font-size: 1.5rem;
 }
-
+.box:hover{
+    box-shadow: inset 5px 5px 20px rgb(162, 184, 192);
+}
 .box1 {
     padding-top: 20px;
     font-size: 2rem;
@@ -71,7 +73,9 @@ body {
     margin: 15px 20px;
     text-align: center;
 }
-
+.box1:hover{
+    box-shadow: inset 5px 5px 30px rgb(162, 184, 192);
+}
 .ib {
     margin: 10px;
     width: 80px;
